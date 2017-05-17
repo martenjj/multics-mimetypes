@@ -2,9 +2,10 @@ Multics MIME Types
 ==================
 
 This small package installs MIME types and file icons for Multics
-source code and archive files.  When browsing local directories or FTP
-archives, applicable files will be shown with a distinctive icon and
-can be configured to open appropriately.
+(http://www.multicians.org) source code and archive files.  When
+browsing local directories or FTP repositories, applicable files will
+be shown with a distinctive icon and can be configured to open
+appropriately.
 
 It has been developed and tested using KDE, but the installed MIME
 type data and icons follow the freedesktop.org standard and so in
