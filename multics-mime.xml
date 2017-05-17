@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+        <!-- Archive -->
+	<mime-type type="application/x-multics-archive">
+		<generic-icon name="multics_archive"/>
+		<comment>Multics archive</comment>
+		<glob pattern="*.archive" />
+	</mime-type>
+
+        <!-- PL1 and related source code -->
+        <mime-type type="text/x-pl1src">
+                <generic-icon name="multics_file"/>
+                <comment>PL/1 source code</comment>
+                <glob pattern="*.pl1"/>
+                <glob pattern="*.cds"/>
+                <glob pattern="*.rd"/>
+        </mime-type>
+
+        <!-- ALM source code -->
+        <mime-type type="text/x-almsrc">
+                <generic-icon name="multics_file"/>
+                <comment>ALM source code</comment>
+                <glob pattern="*.alm"/>
+        </mime-type>
+
+</mime-info>
