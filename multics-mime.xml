@@ -13,6 +13,7 @@
                 <generic-icon name="multics_file"/>
                 <comment>PL/1 source code</comment>
                 <glob pattern="*.pl1"/>
+                <glob pattern="*.pl1.pmac"/>
                 <glob pattern="*.cds"/>
                 <glob pattern="*.rd"/>
         </mime-type>
